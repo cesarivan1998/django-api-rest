@@ -1,7 +1,7 @@
 # django-api-rest
 
 # to install all the packages and dependencies required to run the project
-pip install -r requirements.txt
+pip install -r requirements.txt //
 npm install
 
 # to run the backend local server
